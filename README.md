@@ -27,8 +27,11 @@ For more information, read the **Report** Jupter Notebook.
 
 ### Win scenario
 
-![win](win1)
+![win](images/win1.png)
+![win2](images/win2.png)
 
 ### Lose scenario
 
-![lose](death.mp4)
+![lose](images/start.png)
+![lose2](images/run.png)
+![lose3](images/lost.png)
