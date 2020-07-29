@@ -3,9 +3,9 @@
 This game is a space invaders game where the controller is a spike box.
 
 
-![spikebox 1](images/spikebox.jpg)
+![spikebox 1|100x](images/spikebox.jpg)
 
-![spikebox 2](images/A.png =60x)
+![spikebox 2](images/A.png)
 
 The game needs the spike box otherwise it does not run. The box read EEG waves of a person where the wave changes according to left and right eye movement. If you look left, the spaceship moves left, if you look right, the spaceship moves right.
 
