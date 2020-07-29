@@ -27,7 +27,7 @@ For more information, read the **Report** Jupter Notebook.
 
 ### Win scenario
 
-![win](win.mp4)
+![win](win1)
 
 ### Lose scenario
 
