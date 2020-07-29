@@ -4,8 +4,8 @@ This game is a space invaders game where the controller is a spike box.
 
 <img src="./images/spikebox.jpg" width="500">
 
+<img src="./images/A.png" width="500">
 
-![spikebox 2](images/A.png)
 
 The game needs the spike box otherwise it does not run. The box read EEG waves of a person where the wave changes according to left and right eye movement. If you look left, the spaceship moves left, if you look right, the spaceship moves right.
 
@@ -27,14 +27,16 @@ For more information, read the **Report** Jupter Notebook.
 
 ### Win scenario
 
-![win](images/win1.png =60x)
+<img src="./images/win1.png" width="500">
 
-![win2](images/win2.png =60x)
+<img src="./images/win2.png" width="500">
+
 
 ### Lose scenario
 
-![lose](images/start.png =60x)
+<img src="./images/start.png" width="500">
 
-![lose2](images/run.png =60x)
+<img src="./images/run.png" width="500">
 
-![lose3](images/lost.png =60x)
+<img src="./images/lost.png" width="500">
+
