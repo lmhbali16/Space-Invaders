@@ -2,7 +2,7 @@
 
 This game is a space invaders game where the controller is a spike box.
 
-<img src="./images/spikebox.jpg" width="300">
+<img src="./images/spikebox.jpg" width="500">
 
 
 ![spikebox 2](images/A.png)
